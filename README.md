@@ -1,0 +1,17 @@
+1. Install GameDistribution .unitypackage: https://github.com/GameDistribution/gd-sdk-unity?tab=readme-ov-file
+
+2. Create new assembly definition in the root of the imported CrazySDK folder, called exactly 'CrazySDK'.
+
+3. Install SDK5-CrazyGames-API package:
+
+```git
+https://github.com/MirraSDK/SDK5-CrazyGames-API.git
+```
+
+4. Make sure you've selected WebGL in Build Settings.
+
+5. Open Toolkit, choose CrazyGamesConfiguration for Build.
+
+6. For banners, use prefabs they provided in CrazySDK package.
+
+7. For payments, use XSolla API package for MirraSDK5 (available in Toolkit).
