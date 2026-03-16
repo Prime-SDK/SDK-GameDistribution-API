@@ -1,7 +1,7 @@
 {
-  "name": "com.mirrasdk.gamedistribution.api",
-  "version": "1.0.0",
-  "displayName": "GameDistribution API for MirraSDK5",
+  "name": "com.mirrasdk.gamedistribution.sdk",
+  "version": "1.0.1",
+  "displayName": "GameDistribution SDK for MirraSDK5",
   "unity": "2021.3",
   "documentationUrl": "",
   "changelogUrl": "",

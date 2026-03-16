@@ -1,0 +1,22 @@
+{
+    "name": "MirraGames.SDK.GameDistribution",
+    "rootNamespace": "MirraGames.SDK.GameDistribution",
+    "references": [
+        "MirraGames.SDK.Common",
+        "GameDistributionSDK"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WebGL"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_WEBGL"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
