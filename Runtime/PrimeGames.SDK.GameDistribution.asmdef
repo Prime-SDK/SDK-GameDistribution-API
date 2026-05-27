@@ -1,8 +1,8 @@
 {
-    "name": "MirraGames.SDK.GameDistribution",
-    "rootNamespace": "MirraGames.SDK.GameDistribution",
+    "name": "PrimeGames.SDK.GameDistribution",
+    "rootNamespace": "PrimeGames.SDK.GameDistribution",
     "references": [
-        "MirraGames.SDK.Common",
+        "PrimeGames.SDK.Common",
         "GameDistributionSDK"
     ],
     "includePlatforms": [

@@ -1,7 +1,7 @@
 {
-  "name": "com.mirrasdk.gamedistribution.sdk",
+  "name": "com.primesdk.gamedistribution.api",
   "version": "1.0.1",
-  "displayName": "GameDistribution SDK for MirraSDK5",
+  "displayName": "GameDistribution API for PrimeSDK",
   "unity": "2021.3",
   "documentationUrl": "",
   "changelogUrl": "",

@@ -1,8 +1,8 @@
-using MirraGames.SDK.Common;
+using PrimeGames.SDK.Common;
 using System;
 using System.Runtime.InteropServices;
 
-namespace MirraGames.SDK.GameDistribution
+namespace PrimeGames.SDK.GameDistribution
 {
     [Provider(typeof(IAds))]
     public class GameDistributionAds : CommonAds
