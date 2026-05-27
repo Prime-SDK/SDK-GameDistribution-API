@@ -1,12 +1,12 @@
 {
   "name": "com.primesdk.gamedistribution.api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "GameDistribution API for PrimeSDK",
   "unity": "2021.3",
   "documentationUrl": "",
   "changelogUrl": "",
   "author": {
-    "name": "Roman Likhadievski",
-    "url": "https://github.com/romanlee17"
+    "name": "Prime Pilshing",
+    "url": "https://github.com/Prime-SDK"
   }
 }
