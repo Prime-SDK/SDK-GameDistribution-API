@@ -2,8 +2,7 @@
     "name": "PrimeGames.SDK.GameDistribution",
     "rootNamespace": "PrimeGames.SDK.GameDistribution",
     "references": [
-        "PrimeGames.SDK.Common",
-        "GameDistributionSDK"
+        "PrimeGames.SDK.Common"
     ],
     "includePlatforms": [
         "Editor",
