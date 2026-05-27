@@ -5,7 +5,7 @@
 3. Install GameDistribution API package:
 
 ```git
-https://github.com/Prime-SDK/GameDistribution-API.git
+https://github.com/Prime-SDK/SDK-GameDistribution-API.git
 ```
 
 4. Make sure you've selected WebGL in Build Settings.
